@@ -300,7 +300,7 @@ def main_app():
             
             if file:
                 
-                # AI Simulation 
+                # AI Simulations
                 with st.spinner('⏳ AI Model classifying plastic polymer...'):
                     waste_types = {
                         "PET (Water Bottles) 🥤": "Recyclable",
